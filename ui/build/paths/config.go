@@ -119,6 +119,7 @@ var Configuration = map[string]PathConfig{
 	"rsync":   Allowed,
     "repo":    Allowed,
     "rustc":   Allowed,
+	"rustfmt": Allowed,
 	"sh":      Allowed,
 	"tar":     Allowed,
 	"tr":      Allowed,
